@@ -1,1 +1,3 @@
 cpp调用lua 的demo代码，参考https://blog.csdn.net/v_xchen_v/article/details/77249332
+先进行编译
+然后将lua代码放置的执行程序同级别目录即可
